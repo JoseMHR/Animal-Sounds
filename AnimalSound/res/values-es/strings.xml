@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Sonidos  \n  de  \n animales</string>
+    <string name="wellcome">Bienvenidos a  \n  sonidos de animales</string>
+    <string name="title_activity_main_menu">Menu Principal</string>
+    <string name="Comenzar">Comenzar</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Creditos">Sobre nosotros</string>
+    <string name="ContentImagen">Esto es una imagen</string>
+    <string name="uno">Uno</string>
+    <string name="dos">Dos</string>
+    <string name="tres">Tres</string>
+    <string name="cuatro">Cuatro</string>
+    <string name="cinco">Cinco</string>
+    <string name="seis">Seis</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="genero">Genero</string>
+    <string name="email">Email</string>
+    <string name="telf">Telefono</string>
+    <string name="Salir">Salir</string>
+    <string name="from">Dirección</string>
+    <string name="study">Estudios</string>
+    <string name="aboutMe">¡¡¡Gracias por descargar mi aplicación!!!. Esta es una de mis primeros programas, pero espero que poco a poco sea capaz de ir creando mejores aplicaciones y con mejores diseños. Si quieres comentarme algo en concreto hazmelo saber por mi correo. ¡¡¡Recibe un cordial saludo ;D!!!"</string>
+    <string name="toMainMenu">Regresar al menu principal</string>
+	<string name="title_activity_uno">Sonidos</string>
+    <string name="title_activity_dos">Juego de sonidos</string>
+    <string name="questiongame">¿A qué animal pertenece este sonido?</string>
+</resources>

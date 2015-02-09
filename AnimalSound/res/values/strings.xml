@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Animals \n Sound</string>
+    <string name="wellcome">Wellcome To  \n Animals Sound</string>
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="Comenzar">Start</string>
+    <string name="Jugar">Game</string>
+    <string name="Creditos">About</string>
+    <string name="ContentImagen">This is a imagen</string>
+    <string name="uno">One</string>
+    <string name="dos">Two</string>
+    <string name="tres">Three</string>
+    <string name="cuatro">Four</string>
+    <string name="cinco">Five</string>
+    <string name="seis">Six</string>
+    <string name="nombre">Name</string>
+    <string name="apellidos">Lastname</string>
+    <string name="genero">Sex</string>
+    <string name="email">Email</string>
+    <string name="telf">Telephone</string>
+    <string name="title_activity_about">About</string>
+    <string name="Salir">Exit</string>
+    <string name="from">From</string>
+    <string name="study">Studies</string>
+    <string name="aboutMe"> ¡¡¡Thank you for downloading my application!!!. This is one of my first programs, but hope to be able to go creating better applications with better designs. If you want to tell me something specific let me know by my email. ¡¡¡A lot of thanks ;D!!!</string>
+    <string name="toMainMenu">Return to Main Menu</string>
+    <string name="title_activity_uno">Sounds</string>
+    <string name="title_activity_dos">Sounds Game</string>
+    <string name="questiongame">What animal does this sound??</string>
+</resources>

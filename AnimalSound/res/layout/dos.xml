@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo7"
+    android:gravity="center|bottom"
+    android:orientation="vertical" >
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-4116840717941176/4392976445" >
+    </com.google.android.gms.ads.AdView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button5"
+        android:layout_below="@+id/adView"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/fondo2"
+            android:gravity="center_horizontal|center_vertical"
+            android:minHeight="20dp"
+            android:text="@string/questiongame"
+            android:textColor="@color/white"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:typeface="normal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton1Click"
+                android:scaleType="fitCenter" />
+
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton2Click"
+                android:scaleType="fitCenter" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton3Click"
+                android:scaleType="fitCenter" />
+
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/myboton"
+                android:contentDescription="@string/ContentImagen"
+                android:onClick="onButton4Click"
+                android:scaleType="fitCenter" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/fondo9"
+        android:onClick="onMainClick"
+        android:scaleType="fitCenter"
+        android:text="@string/toMainMenu" />
+
+</RelativeLayout>
