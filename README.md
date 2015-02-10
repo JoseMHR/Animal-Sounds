@@ -1,4 +1,4 @@
-# AnimalSounds
+# Animal Sounds
 
 First android game example
 
