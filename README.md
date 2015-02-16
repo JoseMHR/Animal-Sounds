@@ -1,15 +1,14 @@
 # Animal Sounds
 
-First android game example
+"First android game example"
 
-You can to know more about me in my website: 
+You can know more about me in my website: 
 
 http://josemhr.com/
 
 This example you can try it here: 
 
 https://play.google.com/store/apps/details?id=taos.sonidosanimalesfree.proyecto
-
 
 The aim of these projects uploaded to github, are only instructional, 
 wants to acquire EXPERIENCE, learn, and also show the code publicly to others people 
