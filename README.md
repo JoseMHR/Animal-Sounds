@@ -2,8 +2,18 @@
 
 First android game example
 
-Yoy can know more about me in: http://josemhr.com/
+You can to know more about me in my website: 
 
-You can download it here: 
+http://josemhr.com/
+
+This example you can try it here: 
 
 https://play.google.com/store/apps/details?id=taos.sonidosanimalesfree.proyecto
+
+
+The aim of these projects uploaded to github, are only instructional, 
+wants to acquire EXPERIENCE, learn, and also show the code publicly to others people 
+in case some piece of code helps you because they want to do something similar.
+
+Some of them are made from scratch (as AnimalSounds), others may contain modified pieces 
+of some tutorial or other github projects (like destroyAll).
